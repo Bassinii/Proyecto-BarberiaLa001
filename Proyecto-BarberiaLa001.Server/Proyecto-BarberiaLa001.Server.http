@@ -1,0 +1,6 @@
+@Proyecto_BarberiaLa001.Server_HostAddress = http://localhost:5116
+
+GET {{Proyecto_BarberiaLa001.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
